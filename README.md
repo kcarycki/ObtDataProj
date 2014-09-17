@@ -1,4 +1,0 @@
-ObtDataProj
-===========
-
-Obtaining Data Project
